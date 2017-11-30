@@ -10,11 +10,11 @@
 ![image](https://qph.fs.quoracdn.net/main-thumb-113402770-200-agpgpkvhzjjshtivxogrhwsfhnewqzno.jpeg)
 
 -----
-I am Vishal Kumar, son of Indu Devi and Gupteshwar Dubey. 
+I am Vishal Kumar.
 
-I am 19 years old Electronics and Communication Engineering Student (3rd year as on 30 Nov 2017).   
+I am 19 years old Electronics and Communication Engineering Student (3rd year.. as on 30 Nov 2017).   
 
-Passionate about latest electronics technology.  
+Passionate about latest electronics technology and Automation.
 
 AI and IoT are my all time area of Interest.  
 
