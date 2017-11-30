@@ -2,7 +2,7 @@
 -----------------
 
 
-![image](https://qph.ec.quoracdn.net/main-qimg-79d77e3edbad4e35785402b59ce42b91-c)
+![image](https://cdn.images.yourquote.in/post/large/0/0/1/256/WgrO7553.jpg)
 
 -----------------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Passionate about latest electronics technology.  
 
 AI and IoT are my all time area of Interest.  
 
-I am self taught Python Programmer.. by the way learning is lifelong process.  
+I am self taught Python Programmer.. by the way learning is life long process.  
 
 ![image](https://qph.fs.quoracdn.net/main-thumb-113402770-200-agpgpkvhzjjshtivxogrhwsfhnewqzno.jpeg)
 
