@@ -20,7 +20,7 @@ Persuing B.Tech in ECE from Chandigarh College of Engineering and Technology, Pa
 
  - AI and IoT are my all time area of Interest.📚. 
 
->I am self taught Python Programmer.💻.   
+>I am self taught Python Programmer.💻. 
    
 >By the way learning is life long process. ❤
 
