@@ -1,7 +1,7 @@
 # VISHAL KUMAR
 -----------------
 
-![image](https://raw.githubusercontent.com/the-vishal/the-vishal.github.io/master/Screenshot_20171130060342.jpg)
+![image](https://lh3.googleusercontent.com/proxy/fu0GhwPXilFQ2YWt5-flR0PbZQvFLj-2Ay7RlQS-lRX0awU9-ye5vlXwc92qu82nlS2SlYVA8D7PB9MaWMBcu9qhB6vUIlXrUrKEAHo=w429-h343-nc)
 
 -----------------------------------------------------------------------------------
 
