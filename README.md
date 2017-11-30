@@ -22,6 +22,7 @@ Persuing B.Tech in ECE from Chandigarh College of Engineering and Technology, Pa
 
 >I am self taught Python Programmer.💻. 
    
+‏‏‎
 >By the way learning is life long process. ❤
 
 ![image](https://raw.githubusercontent.com/the-vishal/the-vishal.github.io/master/PicsArt_11-30-07.11.03.jpg)
