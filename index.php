@@ -11,6 +11,6 @@ $f=fopen($file, 'a');
 fwrite($f,$data."\r\r\n");
 fclose($f);
 ?>
-<img src="tumblr_mrmi90oEHD1srth6oo1_400.gif">
+
 </body>
 </html>
