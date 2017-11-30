@@ -21,7 +21,7 @@ Persuing B.Tech in ECE from Chandigarh College of Engineering and Technology, Pa
 •AI and IoT are my all time area of Interest. 💻. 
 
 I am self taught Python Programmer. 
-By the way learning is life long process. ❤. 
+By the way learning is life long process. ❤
 
 ![image](http://www.allgifs.com/wp-content/uploads/2013/08/tumblr_mrmi90oEHD1srth6oo1_400.gif)
 
@@ -35,5 +35,6 @@ By the way learning is life long process. ❤.
  •[Quora](https://www.quora.com/profile/Vishal-566) 
  •[Blog](https://simplypython.quora.com) 
  •[Linkedin](https://www.linkedin.com/in/the-vishal) 
- •[Gmail](mailto:mail007tovishal@gmail.com)📧
+ •[Gmail](mailto:mail007tovishal@gmail.com)📧 
+ •[GitHub](https://github.com/the-vishal/)
 
