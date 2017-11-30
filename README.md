@@ -23,7 +23,7 @@ Persuing B.Tech in ECE from Chandigarh College of Engineering and Technology, Pa
 I am self taught Python Programmer. 
 By the way learning is life long process. ❤
 
-![image](http://www.allgifs.com/wp-content/uploads/2013/08/tumblr_mrmi90oEHD1srth6oo1_400.gif)
+![image](https://raw.githubusercontent.com/the-vishal/the-vishal.github.io/master/PicsArt_11-30-07.11.03.jpg)
 
 ------------------------------
 
@@ -37,4 +37,5 @@ By the way learning is life long process. ❤
  •[Linkedin](https://www.linkedin.com/in/the-vishal) 
  •[Gmail](mailto:mail007tovishal@gmail.com)📧 
  •[GitHub](https://github.com/the-vishal/)
+ •[My Quotes](https://www.yourquote.in/vishalkdubey)
 
