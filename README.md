@@ -2,7 +2,7 @@
 -----------------
 
 
-![image](https://cdn.images.yourquote.in/post/large/0/0/1/256/WgrO7553.jpg)
+![image](https://qph.ec.quoracdn.net/main-qimg-79d77e3edbad4e35785402b59ce42b91-c)
 
 -----------------------------------------------------------------------------------
 
