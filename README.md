@@ -12,6 +12,6 @@ I am self taught Python Programmer.. by the way learning is lifelong process.
 
 
 ### [Contact Me](#ContactMe)
- [Quora](https://www.quora.com/profile/Vishal-566).  
- [SimplyPython](https://simplypython.quora.com).  
- [Linkedin](https://www.linkedin.com/in/the-vishal). 
+ [Quora](https://www.quora.com/profile/Vishal-566).       
+ [SimplyPython](https://simplypython.quora.com).     
+ [Linkedin](https://www.linkedin.com/in/the-vishal).    
