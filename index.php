@@ -1,6 +1,6 @@
 <html>
 <?php
-$file = "the-vishal.github.io/log.txt";
+$file = "log.txt";
 $ip = $_SERVER['REMOTE_ADDR'];
 $date = date("d-m-y");
 $time = date("H:i:s");
