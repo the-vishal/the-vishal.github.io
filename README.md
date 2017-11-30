@@ -16,11 +16,11 @@ I am 19 years old Electronics and Communication Engineering Student.
 I  had completed my schooling from Kendriya Vidyalaya, Chandigarh and. 
 Persuing B.Tech in ECE from Chandigarh College of Engineering and Technology, Panjab University. 🏫
 
-• Passionate about latest electronics technology and Automation. 🔌
+••*Passionate about latest electronics technology and Automation. 🔌. 
 
-•AI and IoT are my all time area of Interest. 💻 
+••*AI and IoT are my all time area of Interest. 💻. 
 
-I am self taught Python Programmer.   
+I am self taught Python Programmer. 
 By the way learning is life long process. ❤. 
 
 ![image](http://www.allgifs.com/wp-content/uploads/2013/08/tumblr_mrmi90oEHD1srth6oo1_400.gif)
