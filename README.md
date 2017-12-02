@@ -1,7 +1,6 @@
 # VISHAL KUMAR
 -----------------
 
-   ![image](https://lh3.googleusercontent.com/proxy/fu0GhwPXilFQ2YWt5-flR0PbZQvFLj-2Ay7RlQS-lRX0awU9-ye5vlXwc92qu82nlS2SlYVA8D7PB9MaWMBcu9qhB6vUIlXrUrKEAHo=w429-h343-nc)
 
 -----------------------------------------------------------------------------------
 
