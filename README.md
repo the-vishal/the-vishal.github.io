@@ -11,8 +11,8 @@
 -----
 I am **Vishal Kumar.**
 
-I am 19 years old Electronics and Communication Engineering Student.  
-I am Persuing B.Tech in ECE from Chandigarh College of Engineering and Technology, Panjab University. 🏫
+I am 19 years old Electronics and Communication Engineering Student.  
+B.Tech from Chandigarh College of Engineering and Technology, Panjab University. 🏫
 
  - Passionate about latest electronics technology and Automation. 🔌. 
 
