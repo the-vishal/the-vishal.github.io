@@ -6,7 +6,7 @@
 
 ### [WHO AM I](#WhoamI)❓
 ----------------------------
-   ![image](https://qph.fs.quoracdn.net/main-thumb-113402770-200-agpgpkvhzjjshtivxogrhwsfhnewqzno.jpeg)
+   ![image](https://avatars2.githubusercontent.com/u/13533512?s=400&v=4)
 
 -----
 I am **Vishal Kumar.**
@@ -27,13 +27,12 @@ B.Tech from Chandigarh College of Engineering and Technology, Panjab University.
 
 ### [Contact Me](#ContactMe) ☎
 ------------------------------
-![image](https://avatars2.githubusercontent.com/u/13533512?s=400&v=4)
 
 ------
- •[Quora](https://www.quora.com/profile/Vishal-566) 
- •[Blog](https://simplypython.quora.com) 
- •[Linkedin](https://www.linkedin.com/in/the-vishal) 
- •[Gmail](mailto:mail007tovishal@gmail.com)📧 
- •[GitHub](https://github.com/the-vishal/)
- •[My Quotes](https://www.yourquote.in/vishalkdubey)
+ •Message me on [Quora](https://www.quora.com/profile/Vishal-566) 
+ •Read my Blog on [SimplyPython](https://simplypython.quora.com) 
+ •View me on [Linkedin](https://www.linkedin.com/in/the-vishal) 
+ •Mail me on [Gmail](mailto:mail007tovishal@gmail.com)📧 
+ •My projects on [GitHub](https://github.com/the-vishal/)
+ •My Quotes on [YourQuote](https://www.yourquote.in/vishalkdubey)
 
