@@ -6,7 +6,7 @@
 
 ### [WHO AM I](#WhoamI)❓
 ----------------------------
-   ![image](https://github.com/the-vishal/the-vishal.github.io/blob/master/PicsArt_12-18-11.16.06.jpg)
+   ![image](https://avatars3.githubusercontent.com/u/13533512?s=460&v=4)
 
 -----
 I am **Vishal Kumar.**
