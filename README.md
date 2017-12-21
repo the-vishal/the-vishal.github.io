@@ -8,7 +8,7 @@
 ----------------------------
    ![image](https://avatars3.githubusercontent.com/u/13533512?s=460&v=4)  
     
-    🇳 🇪 🇻 🇪 🇷 ✌🏻🇸 🇪 🇹 🇹 🇱 🇪
+   
 -----
 I am **Vishal Kumar.**
 
@@ -36,4 +36,6 @@ B.Tech from Chandigarh College of Engineering and Technology, Panjab University.
  •Mail me on [Gmail](mailto:mail007tovishal@gmail.com)📧  
  •My projects on [GitHub](https://github.com/the-vishal/)  
  •My Quotes on [YourQuote](https://www.yourquote.in/vishalkdubey)  
+ 
+  🇳 🇪 🇻 🇪 🇷 ✌🏻🇸 🇪 🇹 🇹 🇱 🇪
 
