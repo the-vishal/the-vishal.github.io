@@ -23,21 +23,23 @@ B.Tech from Chandigarh College of Engineering and Technology, Panjab University.
 
 ------------------------------
 ### [Contact Me](#ContactMe) ☎
-------------------------------
- •Message me on [Quora](https://www.quora.com/profile/Vishal-566)<br/>  
- •Read my Blog on [SimplyPython](https://simplypython.quora.com)<br/>   
- •View me on [Linkedin](https://www.linkedin.com/in/the-vishal)<br/>  
- •Mail me on [Gmail](mailto:mail007tovishal@gmail.com)📧<br/>  
- •My projects on [GitHub](https://github.com/the-vishal/)<br/>    
- •My Quotes on [YourQuote](https://www.yourquote.in/vishalkdubey)<br/> 
+-----------------------------
+
+   •Message me on [Quora](https://www.quora.com/profile/Vishal-566)<br/>  
+   •Read my Blog on [SimplyPython](https://simplypython.quora.com)<br/>   
+   •View me on [Linkedin](https://www.linkedin.com/in/the-vishal)<br/>  
+   •Mail me on [Gmail](mailto:mail007tovishal@gmail.com)📧<br/>  
+   •My projects on [GitHub](https://github.com/the-vishal/)<br/>    
+   •My Quotes on [YourQuote](https://www.yourquote.in/vishalkdubey)<br/> 
  
 -------
 ### Google Keywords to find me 🔍
 ----------
+
    •[Vishal Kumar CCET](http://bfy.tw/FhjI)<br/>  
    •[Vishal Kumar Quotes](http://bfy.tw/Fhja)<br/>
    •[Vishal Kumar HTCampus](http://bfy.tw/Fhjh)<br/>
     
 
 ------
-## 🇳 🇪 🇻 🇪 🇷 ✌🏻🇸 🇪 🇹 🇹 🇱 🇪
+## 🇳 🇪 🇻 🇪 🇷 ✌🏻 🇸 🇪 🇹 🇹 🇱 🇪
