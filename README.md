@@ -29,7 +29,6 @@ B.Tech from Chandigarh College of Engineering and Technology, Panjab University.
 ### [Contact Me](#ContactMe) ☎
 ------------------------------
 
-------
  •Message me on [Quora](https://www.quora.com/profile/Vishal-566)  
  •Read my Blog on [SimplyPython](https://simplypython.quora.com)  
  •View me on [Linkedin](https://www.linkedin.com/in/the-vishal)  
@@ -37,11 +36,15 @@ B.Tech from Chandigarh College of Engineering and Technology, Panjab University.
  •My projects on [GitHub](https://github.com/the-vishal/)  
  •My Quotes on [YourQuote](https://www.yourquote.in/vishalkdubey)  
  
-  🇳 🇪 🇻 🇪 🇷 ✌🏻🇸 🇪 🇹 🇹 🇱 🇪
+  
+ 
+ 
   
 ### Google Keywords to find me 🔍  
-    •Vishal Kumar CCET http://bfy.tw/FhjI  
-    •Vishal Kumar Quotes http://bfy.tw/Fhja  
-    •Vishal Kumar HTCampus http://bfy.tw/Fhjh  
+  •Vishal Kumar CCET http://bfy.tw/FhjI 
+  •Vishal Kumar Quotes http://bfy.tw/Fhja   
+  •Vishal Kumar HTCampus http://bfy.tw/Fhjh  
     
 
+------
+🇳 🇪 🇻 🇪 🇷 ✌🏻🇸 🇪 🇹 🇹 🇱 🇪
