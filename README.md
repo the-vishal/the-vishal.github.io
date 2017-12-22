@@ -39,9 +39,9 @@ B.Tech from Chandigarh College of Engineering and Technology, Panjab University.
 -------
   
 ### Google Keywords to find me 🔍  
-  •Vishal Kumar CCET http://bfy.tw/FhjI  
-  •Vishal Kumar Quotes http://bfy.tw/Fhja<br/>
-  •Vishal Kumar HTCampus http://bfy.tw/Fhjh
+  •[Vishal Kumar CCET](http://bfy.tw/FhjI)<br/>  
+  •[Vishal Kumar Quotes](http://bfy.tw/Fhja)<br/>
+  •[Vishal Kumar HTCampus](http://bfy.tw/Fhjh)<br/>
     
 
 ------
