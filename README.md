@@ -35,11 +35,8 @@ B.Tech from Chandigarh College of Engineering and Technology, Panjab University.
  •Mail me on [Gmail](mailto:mail007tovishal@gmail.com)📧<br/>  
  •My projects on [GitHub](https://github.com/the-vishal/)<br/>    
  •My Quotes on [YourQuote](https://www.yourquote.in/vishalkdubey)<br/>  
- 
-  
- 
- 
-  
+
+  
 ### Google Keywords to find me 🔍  
   •Vishal Kumar CCET http://bfy.tw/FhjI  
   •Vishal Kumar Quotes http://bfy.tw/Fhja<br/>
