@@ -29,12 +29,12 @@ B.Tech from Chandigarh College of Engineering and Technology, Panjab University.
 ### [Contact Me](#ContactMe) ☎
 ------------------------------
 
- •Message me on [Quora](https://www.quora.com/profile/Vishal-566)    
- •Read my Blog on [SimplyPython](https://simplypython.quora.com)    
- •View me on [Linkedin](https://www.linkedin.com/in/the-vishal)    
- •Mail me on [Gmail](mailto:mail007tovishal@gmail.com)📧    
- •My projects on [GitHub](https://github.com/the-vishal/)    
- •My Quotes on [YourQuote](https://www.yourquote.in/vishalkdubey)    
+ •Message me on [Quora](https://www.quora.com/profile/Vishal-566)<br/>  
+ •Read my Blog on [SimplyPython](https://simplypython.quora.com)<br/>   
+ •View me on [Linkedin](https://www.linkedin.com/in/the-vishal)<br/>  
+ •Mail me on [Gmail](mailto:mail007tovishal@gmail.com)📧<br/>  
+ •My projects on [GitHub](https://github.com/the-vishal/)<br/>    
+ •My Quotes on [YourQuote](https://www.yourquote.in/vishalkdubey)<br/>  
  
   
  
