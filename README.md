@@ -36,12 +36,12 @@ B.Tech from Chandigarh College of Engineering and Technology, Panjab University.
  •My projects on [GitHub](https://github.com/the-vishal/)<br/>    
  •My Quotes on [YourQuote](https://www.yourquote.in/vishalkdubey)<br/>  
 
+-------
   
 ### Google Keywords to find me 🔍  
   •Vishal Kumar CCET http://bfy.tw/FhjI  
   •Vishal Kumar Quotes http://bfy.tw/Fhja<br/>
-  
-•Vishal Kumar HTCampus http://bfy.tw/Fhjh
+  •Vishal Kumar HTCampus http://bfy.tw/Fhjh
     
 
 ------
