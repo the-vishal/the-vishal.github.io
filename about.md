@@ -16,25 +16,7 @@ AI and IoT are my all time area of Interest.📚<br/>
 
 I am self taught Python Programmer.💻<br/>  
 By the way learning is life long process. ❤<br/><br/>  
-
-
-<h2>Contact Me ☎</h2>
-
-   <li>Message me on [Quora](https://www.quora.com/profile/Vishal-566)</li>  
-   <li>Read my Blog on [SimplyPython](https://simplypython.quora.com)</li>   
-   <li>View me on [Linkedin](https://www.linkedin.com/in/the-vishal)</li>   
-   <li>Mail me on [Gmail](mailto:mail007tovishal@gmail.com)📧</li>  
-   <li>My projects on [GitHub](https://github.com/the-vishal/)</li>    
-   <li>My Quotes on [YourQuote](https://www.yourquote.in/vishalkdubey)</li><br/>  
  
-
-<h2>Google Keywords to find me 🔍</h2>
-
-   <li>[Vishal Kumar CCET](http://bfy.tw/FhjI)</li>   
-   <li>[Vishal Kumar Quotes](http://bfy.tw/Fhja)</li>  
-   <li>[Vishal Kumar HTCampus](http://bfy.tw/Fhjh)</li>  
-    
-
 </ul>
 
 <h2>Skills</h2>
