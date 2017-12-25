@@ -53,7 +53,7 @@ By the way learning is life long process. ❤<br/><br/>
 	<li>Blogging</li>
 	<li>PSpice</li>
 	<li>IoT</li>
-	<li>Arduino</li>
+	
 </ul>
 
 <h2>Projects</h2>
