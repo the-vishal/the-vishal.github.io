@@ -3,7 +3,7 @@
 
 ### [WHO AM I](#WhoamI)❓
 ----------------------------
-   ![image](https://avatars3.githubusercontent.com/u/13533512?s=460&v=4)  
+   ![image](https://github.com/the-vishal/the-vishal.github.io/blob/master/ghio.JPG)  
     
    
 -----
