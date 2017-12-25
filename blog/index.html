@@ -6,7 +6,7 @@ title: Blog
 ---
 <section class="list">
 	{% if site.posts.size == 0 %}
-		<p class="text-center">Nothing published yet!</p>
+		<a class="link" href="https://simplypython.quora.com">Blog Shifted to Quora</a>
 	{% elsif site.paginate %}
 		{% for post in paginator.posts %}
 			{% if post.category == 'blog' %}
