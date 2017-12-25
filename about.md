@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<ul>
+<p>
 	I am <b>Vishal Kumar</b>.<br/>
 
 I am 19 years old Electronics and Communication Engineering Student.<br/>  
@@ -17,7 +17,7 @@ AI and IoT are my all time area of Interest.📚<br/>
 I am self taught Python Programmer.💻<br/>  
 By the way learning is life long process. ❤<br/><br/>  
  
-</ul>
+</p>
 
 <h2>Skills</h2>
 
