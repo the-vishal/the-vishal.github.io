@@ -1,13 +1,8 @@
 ---
 title: About
 layout: page
----
-<img src="https://github.com/the-vishal/the-vishal.github.io/blob/master/ghio.JPG" />
-
+-----
 ![Profile Image]({{ site.url }}/{{ site.picture }})
-![Profile Image](https://github.com/the-vishal/the-vishal.github.io/blob/master/ghio.JPG)
-![image](https://github.com/the-vishal/the-vishal.github.io/blob/master/ghio.JPG)
-
 <br/>
 <p>
 I am <b>Vishal Kumar</b>.<br/>
