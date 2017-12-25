@@ -6,8 +6,8 @@ title: Blog
 ---
 <section class="list">
 	{% if site.posts.size == 0 %}
-		<a class="link" href="https://simplypython.quora.com">Simply Python</a>
-	       <a class="link" href=" https://hacksworthsharing.quora.com/">Hacks worth Sharing</a>
+		<a class="link" href="https://simplypython.quora.com">Simply Python</a><br/>
+	        <a class="link" href=" https://hacksworthsharing.quora.com/">Hacks worth Sharing</a>
 	{% elsif site.paginate %}
 		{% for post in paginator.posts %}
 			{% if post.category == 'blog' %}
