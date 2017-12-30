@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image](https://avatars1.githubusercontent.com/u/13533512?s=400&u=2b9d201105dd5fa0dafb1ec7e9dab9ffa5c11679&v=4)
 <br/>
 <p>
 I am <b>Vishal Kumar</b>.<br/>
