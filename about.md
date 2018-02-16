@@ -8,7 +8,7 @@ layout: page
 <p>
 I am <b>Vishal Kumar</b>.<br/>
 
-I am 19 years old Electronics and Communication Engineering Student.<br/>  
+I am 20 years old Electronics and Communication Engineering Student.<br/>  
 B.Tech from Chandigarh College of Engineering and Technology, Panjab University. 🏫<br/>
 
 Passionate about latest electronics technology and Automation. 🔌<br/>   
