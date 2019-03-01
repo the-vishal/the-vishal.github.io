@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-![Profile Image](https://raw.githubusercontent.com/the-vishal/the-vishal.github.io/master/%E2%80%AA%2B91%2091150%2073633%E2%80%AC%2020180404_191716.jpg)
+![Profile Image](https://raw.githubusercontent.com/the-vishal/the-vishal.github.io/master/PicsArt_02-10-12.26.45.jpg)
 <br/>
 <p>
 I am <b>Vishal Kumar</b>.<br/>
