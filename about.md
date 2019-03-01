@@ -8,7 +8,7 @@ layout: page
 <p>
 I am <b>Vishal Kumar</b>.<br/>
 
-I am 20 years old Electronics and Communication Engineering Student.<br/>  
+I am 21 years old Electronics and Communication Engineering Student.<br/>  
 B.Tech from Chandigarh College of Engineering and Technology, Panjab University. 🏫<br/>
 
 Passionate about latest electronics technology and Automation. 🔌<br/>   
@@ -25,7 +25,9 @@ By the way learning is life long process. ❤<br/><br/>
 <ul class="skill-list">
 	<li>Python3</li>
 	<li>Django- Web Framework</li>
-	<li>HTML</li>
+	<li>Penetration Testing</li>
+	<li>Computer Forensics</li>
+	<li>HTML + JS</li>
 	<li>Tkinter- GUI Development</li>
 	<li>SQL</li>
 	<li>MATLAB- Simulink</li>
