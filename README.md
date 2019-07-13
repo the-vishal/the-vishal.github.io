@@ -3,13 +3,13 @@
 
 ### [WHO AM I](#WhoamI)❓
 ----------------------------
-   ![image](https://github.com/the-vishal/the-vishal.github.io/blob/master/ghio.JPG)  
+   ![image](https://raw.githubusercontent.com/the-vishal/the-vishal.github.io/master/assets/images/IMG_20180530_184457_HDR.jpg)  
     
    
 -----
 I am **Vishal Kumar.**
 
-I am 19 years old Electronics and Communication Engineering Student.  
+I am 21 years old Electronics and Communication Engineering Student.  
 B.Tech from Chandigarh College of Engineering and Technology, Panjab University. 🏫  
 
  - Passionate about latest electronics technology and Automation. 🔌.   
@@ -32,14 +32,5 @@ B.Tech from Chandigarh College of Engineering and Technology, Panjab University.
    •My projects on [GitHub](https://github.com/the-vishal/)<br/>    
    •My Quotes on [YourQuote](https://www.yourquote.in/vishalkdubey)<br/> 
  
--------
-### Google Keywords to find me 🔍
-----------
-
-   •[Vishal Kumar CCET](http://bfy.tw/FhjI)<br/>  
-   •[Vishal Kumar Quotes](http://bfy.tw/Fhja)<br/>
-   •[Vishal Kumar HTCampus](http://bfy.tw/Fhjh)<br/>
-    
-
 ------
 ## 🇳 🇪 🇻 🇪 🇷 ✌🏻 🇸 🇪 🇹 🇹 🇱 🇪
