@@ -40,14 +40,3 @@ By the way learning is life long process. ❤<br/><br/>
 	<li>IoT</li>
 	
 </ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/the-vishal/EyeControlledCursor">Eye Controlled Cursor</a></li>
-	<li><a href="https://github.com/the-vishal/Air-Mouse">Airmouse</a></li>
-	<li><a href="https://github.com/the-vishal/Clean-Sorting">Clean Sorting</a></li>
-	<li><a href="https://github.com/the-vishal/Fb_Automated_Birthday_Wisher">Facebook Automated Birthday Wisher</a></li>
-	<li><a href="https://github.com/the-vishal/Intrusion_Detection">Intrusion Detection</a></li>
-	<li><a href="https://github.com/the-vishal/DLL-Client">DLL-Client</a></li>
-</ul>
