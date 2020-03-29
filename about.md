@@ -21,6 +21,7 @@ By the way learning is life long process. ❤<br/><br/>
 </p>
 <hr>
 <h2>Skills</h2>
+<ul class="skill-list">
 	<li>Python3</li>
 	<li>Django- Web Framework</li>
 	<li>Elasticsearch</li>
